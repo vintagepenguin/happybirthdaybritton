@@ -1338,3 +1338,16 @@
 	color: black;
 	font-size: 10em;
 }				
+
+#rightzy {
+	text-align: center;
+}
+
+/*#kim_1 {
+	background: url('../images/kim_1.jpg');
+}*/
+
+.container img {
+	width: 100%;
+  height: auto;
+}
